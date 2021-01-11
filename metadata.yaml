@@ -1,11 +1,16 @@
 _repo: A-sentimental-practical-guide-to-Amesbury-and-Stonehenge_64167
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64167-h/images/cover.jpg
 creator:
   author:
     agent_name: Antrobus, Florence Caroline Mathilde Sartoris, Lady
     gutenberg_agent_id: '52779'
     url: http://www.gutenberg.org/2009/agents/52779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64167#A-sentimental-practical-guide-to-Amesbury-and-Stonehenge
 gutenberg_issued: '2020-12-29'
 gutenberg_type: Text
 identifiers:
